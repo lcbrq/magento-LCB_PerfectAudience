@@ -1,1 +1,3 @@
-# magento-PerfectAudience
+# LCB_PerfectAudience
+
+Basic PerfectAudience module with admin id setup

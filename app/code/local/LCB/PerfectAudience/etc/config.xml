@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <LCB_PerfectaAdience>
+            <version>0.1.0</version>
+        </LCB_PerfectaAdience>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <perfectaudience>
+                    <file>perfectaudience.xml</file>
+                </perfectaudience>
+            </updates>
+        </layout>
+    </frontend>
+    <global>
+        <helpers>
+            <perfectaudience>
+                <class>LCB_PerfectAudience_Helper</class>
+            </perfectaudience>
+        </helpers>
+        <blocks>
+            <perfectaudience>
+                <class>LCB_PerfectAudience_Block</class>
+            </perfectaudience>
+        </blocks>
+    </global>
+</config> 

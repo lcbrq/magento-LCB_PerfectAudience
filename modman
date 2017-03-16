@@ -1,0 +1,4 @@
+app/etc/modules/LCB_PerfectAudience.xml                      app/etc/modules/LCB_PerfectAudience.xml
+app/code/local/LCB/PerfectAudience                           app/code/local/LCB/PerfectAudience 
+app/design/frontend/base/default/layout/perfectaudience.xml  app/design/frontend/base/default/layout/perfectaudience.xml
+app/design/frontend/base/default/template/perfectaudience    app/design/frontend/base/default/template/perfectaudience

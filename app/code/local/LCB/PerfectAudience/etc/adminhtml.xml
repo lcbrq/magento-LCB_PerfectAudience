@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<adminhtml>
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                    <system>
+                        <children>
+                            <config>
+                                <children>
+                                    <perfectaudience translate="title" module="perfectaudience">
+                                        <title>Perfect Audience</title>
+                                        <sort_order>1200</sort_order>
+                                    </perfectaudience>
+                                </children>
+                            </config>
+                        </children>
+                    </system>
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</adminhtml>

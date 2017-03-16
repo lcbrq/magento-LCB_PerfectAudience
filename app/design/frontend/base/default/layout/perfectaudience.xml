@@ -1,0 +1,13 @@
+<?xml version="1.0"?>   
+<layout version="0.1.0">
+    <default>
+        <reference name="before_body_end">
+            <block type="perfectaudience/default" name="perfectaudience" template="perfectaudience/default.phtml" />
+        </reference>   
+    </default>
+    <checkout_onepage_success> 
+        <reference name="before_body_end">
+            <block type="perfectaudience/success" name="perfectaudience" template="perfectaudience/success.phtml"/>   
+        </reference>   
+    </checkout_onepage_success>
+</layout>
